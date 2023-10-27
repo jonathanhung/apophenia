@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ meta.mainLanguage }}">
+<html lang="en">
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
@@ -10,7 +10,8 @@
       {% include imp %}
     {% endfor %}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+  <!--<body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">-->
+  <body class="">
     {%include "components/notegrowthhistory.njk"%}
     {% if settings.dgShowFileTree !== true %}
       {%include "components/navbar.njk"%}
@@ -20,24 +21,15 @@
     {% if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
     {% endif %}
-    <main class="content cm-s-obsidian {{contentClasses}}">
-      <header>
+    
+    <header>
       {% if settings.dgShowInlineTitle === true %}
         <h1>{{ noteTitle  }}</h1>
       {% endif %}
-
-      <div class="header-meta">
-        {% if settings.dgShowTags === true and tags %}
-          <div class="header-tags">
-            {% for tag in tags %}
-              {% if tag != 'gardenEntry' and tag !='note' %}
-                <a class="tag" onclick="toggleTagSearch(this)">
-                  #{{tag}}
-                </a>
-              {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
+      <div class="summary">
+          {% if summary %}
+            {{summary}}
+          {% endif %}
       </div>
       {% for imp in dynamics.common.header %}
         {% include imp %}
@@ -45,13 +37,15 @@
       {% for imp in dynamics.index.header %}
         {% include imp %}
       {% endfor %}
-      </header>
+    </header>
+    <main class="cm-s-obsidian {{contentClasses}}">
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
       {% endfor %}
       {% for imp in dynamics.index.beforeContent %}
         {% include imp %}
       {% endfor %}
+
       {{ content | hideDataview | link | taggify | safe}}
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
@@ -61,13 +55,6 @@
       {% endfor %}
     </main>
 
-    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
-      {%include "components/sidebar.njk" %}
-    {%endif%}
-
-    {% if settings.dgLinkPreview === true %}
-      {%include "components/linkPreview.njk"%}
-    {% endif %}
     {% for imp in dynamics.common.footer %}
       {% include imp %}
     {% endfor %}

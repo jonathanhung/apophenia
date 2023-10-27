@@ -2,7 +2,7 @@
 permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 <!DOCTYPE html>
-<html lang="{{ meta.mainLanguage }}">
+<html lang="en">
   <head>
     <title>{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</title>
     {%include "components/pageheader.njk"%}
@@ -13,7 +13,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% include imp %}
     {% endfor %}
   </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+  <!-- <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}"> -->
+  <body class="">
     {%include "components/notegrowthhistory.njk"%}
     
     {% if settings.dgShowFileTree !== true %}
@@ -25,18 +26,23 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
     {% endif %}
-
-    <main class="content cm-s-obsidian {{contentClasses}}">
-      <header>
+    <header>
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
-        <div class="header-meta">
+
+    <!-- section for inclusion in dynamics.notes.header -->
+        <div class="summary">
+          {% if summary %}
+            {{summary}}
+          {% endif %}
+        </div>
+        <div class="header-meta flex items-center flex-wrap">
           {% if settings.dgShowTags === true and tags %}
-            <div class="header-tags">
+            <div class="header-tags flex items-center flex-shrink-0">
               {% for tag in tags %}
                 {% if tag != 'gardenEntry' and tag !='note' %}
-                  <a class="tag" onclick="toggleTagSearch(this)">
+                  <a class="tag inline-block mt-0 mr-4" onclick="toggleTagSearch(this)">
                     #{{tag}}
                   </a>
                 {% endif %}
@@ -44,41 +50,51 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
             </div>
           {% endif %}
           {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
-          <div class="timestamps">
+          <div class="timestamps flex-grow flex items-center justify-end w-auto">
             {%- if meta.timestampSettings.showCreated and created -%}
-            <div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
+            <div><i icon-name="calendar-plus"></i>Created <span class="human-date" data-date="{{created}}"></span></div>
             {%- endif -%}
             {%- if meta.timestampSettings.showUpdated and updated -%}
-            <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
+            <div><i icon-name="calendar-clock"></i>Updated <span class="human-date" data-date="{{updated}}"></span></div>
             {%- endif -%}
           </div>
           {%- endif -%}
         </div>
+    <!-- end section for inclusion in dynamics.notes.header -->
+    
       {% for imp in dynamics.common.header %}
         {% include imp %}
       {% endfor %}
       {% for imp in dynamics.notes.header %}
         {% include imp %}
       {% endfor %}
-      </header>
+    </header>
+    <main class="{{contentClasses}}">
+    
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
       {% endfor %}
       {% for imp in dynamics.notes.beforeContent %}
         {% include imp %}
       {% endfor %}
-      {{ content | hideDataview | link | taggify | safe}}
+      
+      <article>
+        {% if settings.dgShowToc === true%}
+          {%include "components/toc.njk"%}
+        {% endif %}
+        
+        {{ content | hideDataview | link | taggify | safe}}
+      </article>
+      
+
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
       {% for imp in dynamics.notes.afterContent %}
         {% include imp %}
       {% endfor %}
-    </main>
 
-    {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
-      {%include "components/sidebar.njk"%}
-    {% endif %}
+    </main>
 
     {% if settings.dgLinkPreview === true %}
       {%include "components/linkPreview.njk"%}

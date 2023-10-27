@@ -1,0 +1,21 @@
+
+<aside class="toc-aside-container">
+
+      {%if settings.dgShowToc === true%}
+            {%set tocHtml= (content and (content|toc)) %}
+            {%if tocHtml %}
+                  <div class="toc">
+                        <div class="toc-title-container">
+                              <div class="toc-title-aa">
+                                    Contents
+                              </div>
+                        </div>
+                        <div class="">
+                              {{ tocHtml | safe }}
+                        </div>
+                  </div>
+            {%endif%}
+
+      {%endif%}
+
+</aside>

@@ -1,0 +1,95 @@
+@tailwind base;
+
+@layer base {
+    body {
+        @apply bg-clay-50 text-lg font-sans font-light text-clay-700 overflow-y-auto relative;
+    }
+    
+    h1 {
+      @apply text-7xl text-left text-clay-900 font-serif font-bold pb-9;
+    }
+
+    h2 {
+      @apply text-5xl font-serif font-extrabold text-moss-700 my-8;
+    }
+
+    h3 {
+        @apply text-xl font-sans font-bold text-amber-800 my-8;
+    }
+
+    header {
+        @apply max-w-[960px] m-auto p-8 pt-[180px] tracking-tight;
+    }
+
+    .summary {
+        @apply text-4xl text-clay-600 font-serif font-medium pb-9;
+    }
+
+    .header-meta {
+        @apply border-t border-clay-300 pt-4 font-mono font-medium uppercase text-sm text-clay-600;
+    }
+
+    .timestamps {
+        @apply mt-0;
+    }
+
+    main {
+        @apply max-w-[960px] m-auto p-8 tracking-tight;
+    }
+
+    .toc-aside-container {
+        @apply font-mono text-sm max-w-[300px] float-right pl-8;
+    }
+
+    div.toc {
+        @apply bg-moss-50 border border-moss-600 border-dotted rounded-none p-0;
+    }
+
+    div.toc-title-container {
+        @apply border-b border-moss-600 border-dotted mt-3;
+    }
+
+    div.toc-title-aa {
+        @apply font-medium uppercase text-moss-700 px-6 pb-3;
+    }
+
+    nav.toc {
+        @apply p-6 pt-2;
+    }
+
+    nav.toc ol {
+        @apply leading-8 min-w-[240px];
+    }
+
+    .toc a {
+        @apply text-moss-700 hover:text-moss-500 underline underline-offset-1 font-light;
+    }
+
+    p, ul {
+        @apply pb-4 tracking-normal;
+    }
+
+    ul {
+        @apply pl-6;
+    }
+
+    b, strong {
+        @apply font-bold;
+    }
+
+    main a, main a.tag {
+        @apply text-sky-600 font-mono font-medium
+    }
+
+    ul {
+        @apply list-outside list-disc;
+    }
+
+    hr {
+        @apply text-moss-100 my-8;
+    }
+    /* ... */
+  }
+
+@tailwind components;
+@tailwind utilities;
