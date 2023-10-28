@@ -3,29 +3,70 @@
     console.log('All collection count:', '{{ collections.all.length }}');
 </script>
 
-<div class="grid grid-cols-3 gap-4">
-    <div class="col-span-1">
-        <h2 class="text-lg font-bold mb-4">Recent Posts</h2>
-        <ul>
-            {% for post in collections.all | reverse %}
-                <li><a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a></li>
-            {% endfor %}
-        </ul>
+    <div class="py-4 border-y border-clay-300">
+        <span class="font-mono text-xs text-moss-700">Essays</span>
     </div>
-    <div class="col-span-1">
-        <h2 class="text-lg font-bold mb-4">Design Posts</h2>
-        <ul>
-            {% for post in collections.design | reverse %}
-                <li><a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a></li>
-            {% endfor %}
-        </ul>
+    <div id="table-essays" class="bg-white divide-y divide-clay-300 border-b border-clay-300">
+        <div class="text-moss-700">
+            <div class="w-3/4 px-4 pt-8">
+                <a class="font-sans text-2xl">Half Earth Game - First thoughts and UI criticisms</a>
+            </div>
+            <div class="w-3/4 px-4 font-extralight">
+                They did a noble job of reducing complexity, does this offer a reasonable fascimile of cybernetics?
+            </div>
+            <div class="w-3/4 px-4 pt-4 pb-6 text-xs font-mono uppercase text-clay-500">
+                <span class="text-green-600">Seedling</span>  
+                <span class="pl-2">essay</span> 
+                <span class="pl-2">2023-09-19</span>
+            </div>
+        </div>
+        <div class="text-moss-700">
+            <div class="w-3/4 px-4 pt-8">
+                <a class="font-sans text-2xl">Half Earth Game - First thoughts and UI criticisms</a>
+            </div>
+            <div class="w-3/4 px-4 pt-2">
+                They did a noble job of reducing complexity, does this offer a reasonable fascimile of cybernetics?
+            </div>
+            <div class="w-3/4 px-4 pt-4 pb-6 text-xs font-mono text-clay-500">
+                Seedling essay 2023-09-19
+            </div>
+        </div>
+        <div class="text-moss-700">
+            <div class="w-3/4 px-4 pt-8">
+                <a class="font-sans text-2xl">Half Earth Game - First thoughts and UI criticisms</a>
+            </div>
+            <div class="w-3/4 px-4 pt-2">
+                They did a noble job of reducing complexity, does this offer a reasonable fascimile of cybernetics?
+            </div>
+            <div class="w-3/4 px-4 pt-4 pb-6 text-xs font-mono text-clay-500">
+                Seedling essay 2023-09-19
+            </div>
+        </div>
     </div>
-    <div class="col-span-1">
-        <h2 class="text-lg font-bold mb-4">Recent Biblio</h2>
-        <ul>
-            {% for post in collections.biblio | reverse %}
-                <li><a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a></li>
-            {% endfor %}
-        </ul>
+
+    <div class="grid grid-cols-3 gap-4">
+        <div class="col-span-1">
+            <h2 class="text-lg font-bold mb-4">Recent Posts</h2>
+            <ul>
+                {% for post in collections.all | reverse %}
+                    <li><a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="col-span-1">
+            <h2 class="text-lg font-bold mb-4">Design Posts</h2>
+            <ul>
+                {% for post in collections.design | reverse %}
+                    <li><a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="col-span-1">
+            <h2 class="text-lg font-bold mb-4">Recent Biblio</h2>
+            <ul>
+                {% for post in collections.biblio | reverse %}
+                    <li><a href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
     </div>
-</div>
