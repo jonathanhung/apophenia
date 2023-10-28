@@ -7,41 +7,22 @@
         <span class="font-mono text-xs text-moss-700">Essays</span>
     </div>
     <div id="table-essays" class="bg-white divide-y divide-clay-300 border-b border-clay-300">
+        {% for post in collections.all | reverse %}
         <div class="text-moss-700">
             <div class="w-3/4 px-4 pt-8">
-                <a class="font-sans text-2xl">Half Earth Game - First thoughts and UI criticisms</a>
+                <a class="font-sans text-2xl" href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a>
             </div>
             <div class="w-3/4 px-4 font-extralight">
-                They did a noble job of reducing complexity, does this offer a reasonable fascimile of cybernetics?
+                {{ post.data.summary }}
             </div>
             <div class="w-3/4 px-4 pt-4 pb-6 text-xs font-mono uppercase text-clay-500">
                 <span class="text-green-600">Seedling</span>  
-                <span class="pl-2">essay</span> 
-                <span class="pl-2">2023-09-19</span>
+                <span class="pl-2">{{ post.data.type}}</span> 
+                <span class="pl-2">{{ post.data.date_created}}</span>
             </div>
         </div>
-        <div class="text-moss-700">
-            <div class="w-3/4 px-4 pt-8">
-                <a class="font-sans text-2xl">Half Earth Game - First thoughts and UI criticisms</a>
-            </div>
-            <div class="w-3/4 px-4 pt-2">
-                They did a noble job of reducing complexity, does this offer a reasonable fascimile of cybernetics?
-            </div>
-            <div class="w-3/4 px-4 pt-4 pb-6 text-xs font-mono text-clay-500">
-                Seedling essay 2023-09-19
-            </div>
-        </div>
-        <div class="text-moss-700">
-            <div class="w-3/4 px-4 pt-8">
-                <a class="font-sans text-2xl">Half Earth Game - First thoughts and UI criticisms</a>
-            </div>
-            <div class="w-3/4 px-4 pt-2">
-                They did a noble job of reducing complexity, does this offer a reasonable fascimile of cybernetics?
-            </div>
-            <div class="w-3/4 px-4 pt-4 pb-6 text-xs font-mono text-clay-500">
-                Seedling essay 2023-09-19
-            </div>
-        </div>
+        {% endfor %}
+        
     </div>
 
     <div class="grid grid-cols-3 gap-4">
