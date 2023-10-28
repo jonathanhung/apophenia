@@ -7,7 +7,7 @@
         <span class="font-mono text-xs text-moss-700">Writing in Development</span>
     </div>
     <div id="table-notes" class="bg-white divide-y divide-clay-300 border-b border-clay-300">
-        {% for post in collections.all | reverse %}
+        {% for post in collections.writing | reverse %}
         <div class="text-moss-700">
             <div class="w-3/4 px-4 pt-8">
                 <a class="font-sans text-2xl" href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a>
