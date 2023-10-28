@@ -1,10 +1,10 @@
 <script>
     // Logging the entire collections object
-    console.log('All collection count:', '{{ collections.all.length }}');
+    console.log('All writing count:', '{{ writing.all.length }}');
 </script>
 
     <div class="py-4 border-y border-clay-300">
-        <span class="font-mono text-xs text-moss-700">Notes: Writing in Development</span>
+        <span class="font-mono text-xs text-moss-700">Writing in Development</span>
     </div>
     <div id="table-notes" class="bg-white divide-y divide-clay-300 border-b border-clay-300">
         {% for post in collections.all | reverse %}
