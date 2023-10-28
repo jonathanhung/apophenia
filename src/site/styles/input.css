@@ -10,7 +10,7 @@
     }
 
     h2 {
-      @apply text-2xl font-serif font-extrabold text-moss-700 my-8;
+      @apply text-2xl font-serif font-extrabold text-moss-700 my-4;
     }
 
     h3 {
@@ -86,7 +86,7 @@
     }
 
     hr {
-        @apply text-moss-100 my-8;
+        @apply text-moss-100 my-2;
     }
     /* ... */
   }
