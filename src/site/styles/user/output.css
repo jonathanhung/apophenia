@@ -462,8 +462,8 @@ h2 {
   margin-top: 2rem;
   margin-bottom: 2rem;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 3rem;
-  line-height: 1;
+  font-size: 1.5rem;
+  line-height: 2rem;
   font-weight: 800;
   --tw-text-opacity: 1;
   color: rgb(106 109 76 / var(--tw-text-opacity));
@@ -925,11 +925,6 @@ hr {
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
-}
-
-.text-5xl {
-  font-size: 3rem;
-  line-height: 1;
 }
 
 .text-lg {

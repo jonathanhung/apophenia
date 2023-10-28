@@ -10,7 +10,7 @@
     }
 
     h2 {
-      @apply text-5xl font-serif font-extrabold text-moss-700 my-8;
+      @apply text-2xl font-serif font-extrabold text-moss-700 my-8;
     }
 
     h3 {
