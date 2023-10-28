@@ -8,7 +8,12 @@ module.exports = {
     './src/helpers/*.{html,js,njk}'
   ],
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        'xl': '1440px',
+        // => @media (min-width: 1440px) { ... }
+      },
+    },
     container: {
       center: true,
       padding: '1rem',
