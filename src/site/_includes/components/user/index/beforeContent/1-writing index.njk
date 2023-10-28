@@ -1,0 +1,26 @@
+<script>
+    // Logging the entire collections object
+    console.log('All collection count:', '{{ collections.writing.length }}');
+</script>
+
+    <div class="py-4 border-y border-clay-300">
+        <span class="font-mono text-xs text-moss-700">Writing in Development</span>
+    </div>
+    <div id="table-notes" class="bg-white divide-y divide-clay-300 border-b border-clay-300">
+        {% for post in collections.writing | reverse %}
+        <div class="text-moss-700">
+            <div class="w-3/4 px-4 pt-8">
+                <a class="font-sans text-2xl" href="{{ post.url }}">{{ post.data.title or post.fileSlug }}</a>
+            </div>
+            <div class="w-3/4 px-4 font-extralight">
+                {{ post.data.summary }}
+            </div>
+            <div class="w-3/4 px-4 pt-4 pb-6 text-xs font-mono uppercase text-clay-500">
+                <span class="text-green-600">Seedling</span>  
+                <span class="pl-2">{{ post.data.type}}</span> 
+                <span class="pl-2">{{ post.data.date_created}}</span>
+            </div>
+        </div>
+        {% endfor %}
+        
+    </div>
