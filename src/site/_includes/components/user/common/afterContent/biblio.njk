@@ -1,0 +1,61 @@
+<div id="header-biblio" class="py-4 border-y border-clay-300">
+    <h2 class="text-5xl text-left text-moss-700 font-serif font-light mt-[320px]">Recent Bibliography</h2>
+</div>
+            
+<div id="selector-biblio" class="py-4 border-y border-clay-300">
+    <span class="font-mono text-xs text-moss-700">All</span>
+</div>
+
+{% for post in collections.all | reverse %}
+    <div id="grid-biblio" class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        <div class="w-full bg-white text-moss-700 border-b-2 border-clay-300">
+            <div class="px-4 pt-8">
+                <a class="font-sans text-xl">Let your Life Speak</a>
+            </div>
+            <div class="px-4 pt-1 font-extralight">
+                Co-design is an approach to designing with, not for, people. While co-design is helpful in many areas, it typically works best where people with lived experience, communities and professionals work together to improve something that they all care about
+            </div>
+            <div class="px-4 pt-4 pb-4 text-xs font-mono uppercase text-sky-600">
+                <span class="pr-2">[[tag tag]]</span>
+                <span class="pr-2">[[Solarpunk]]</span>  
+                <span class="pr-2">[[Sustainability]]</span>    
+            </div>
+        </div>
+        <div class="w-full bg-white text-moss-700 border-b-2 border-clay-300">
+            <div class="px-4 pt-8">
+                <a class="font-sans text-xl">Let your Life Speak</a>
+            </div>
+            <div class="px-4 pt-1 font-extralight">
+                Co-design is an approach to designing with, not for, people. While co-design is helpful in many areas, it typically works best where people with lived experience, communities and professionals work together to improve something that they all care about
+            </div>
+            <div class="px-4 pt-4 pb-4 text-xs font-mono uppercase text-sky-600">
+                <span class="pr-2">[[tag tag]]</span>
+                <span class="pr-2">[[Solarpunk]]</span>  
+                <span class="pr-2">[[Sustainability]]</span>    
+            </div>
+        </div>
+        <div class="w-full bg-white text-moss-700 border-b-2 border-clay-300">
+            <div class="px-4 pt-8">
+                <a class="font-sans text-xl">Let your Life Speak</a>
+            </div>
+            <div class="px-4 pt-1 font-extralight">
+                Co-design is an approach to designing with, not for, people. While co-design is helpful in many areas, it typically works best where people with lived experience, communities and professionals work together to improve something that they all care about
+            </div>
+            <div class="px-4 pt-4 pb-4 text-xs font-mono uppercase text-sky-600">
+                <span class="pr-2">[[tag tag]]</span>
+                <span class="pr-2">[[Solarpunk]]</span>  
+                <span class="pr-2">[[Sustainability]]</span>    
+            </div>
+        </div>
+        <div class="w-full bg-white text-moss-700 border-b-2 border-clay-300">
+            <div class="px-4 pt-8">
+                <a class="font-sans text-xl">Beyond Sticky Notes Doing Co-Design for Real Mindsets, Methods and Movements</a>
+            </div>
+            <div class="px-4 pt-4 pb-4 text-xs font-mono uppercase text-sky-600">
+                <span class="pr-2">[[co-design]]</span>
+                <span class="pr-2">[[Solarpunk]]</span>  
+                <span class="pr-2">[[Sustainability]]</span>    
+            </div>
+        </div>
+    </div>
+{% endfor %}
