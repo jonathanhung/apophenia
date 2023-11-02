@@ -1,5 +1,5 @@
 ---
-{"type":"note","date_created":"2023-10-17","aliases":null,"topic":null,"summary":null,"url":null,"layout":null,"banner":null,"dg-publish":true,"tags":["seedling"],"permalink":"/000-essays/forms-versus-uniqueness/","dgPassFrontmatter":true,"created":"2023-10-18T11:23:07.000-05:00","updated":"2023-10-27T19:13:33.437-05:00"}
+{"type":"essay","date_created":"2023-10-17","aliases":null,"topic":null,"summary":null,"url":null,"layout":null,"banner":null,"dg-publish":true,"tags":["seedling"],"permalink":"/000-essays/forms-versus-uniqueness/","dgPassFrontmatter":true,"created":"2023-10-18T11:23:07.000-05:00","updated":"2023-11-02T17:15:12.483-05:00"}
 ---
 
 I was at the store yesterday pointing out to a friend how to pick avocados. You want them firm, better firm than too soft. 
