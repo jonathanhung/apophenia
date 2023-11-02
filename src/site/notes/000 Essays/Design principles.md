@@ -1,5 +1,5 @@
 ---
-{"type":"note","date_created":"2023-11-02","aliases":null,"topic":["[[design]]"],"summary":null,"url":null,"layout":null,"banner":null,"dg-publish":true,"tags":["seedling"],"permalink":"/000-essays/design-principles/","dgPassFrontmatter":true,"created":"2023-11-02T11:05:31.000-05:00","updated":"2023-11-02T11:05:31.000-05:00"}
+{"type":"essay","date_created":"2023-11-02","aliases":null,"topic":["[[design]]"],"summary":null,"url":null,"layout":null,"banner":null,"dg-publish":true,"tags":["seedling"],"permalink":"/000-essays/design-principles/","dgPassFrontmatter":true,"created":"2023-11-02T11:05:31.000-05:00","updated":"2023-11-02T17:15:08.973-05:00"}
 ---
 
 
