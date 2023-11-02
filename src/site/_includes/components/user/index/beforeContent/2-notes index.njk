@@ -1,0 +1,38 @@
+<!-- the reason we use writing as collection is becasue everything in digital garden is a note -->
+<script>
+
+    // Logging the entire collections object
+    // console.log('All collection count:', '{{ collections.writing.length }}');
+</script>
+
+    <div class="pb-4 border-b border-clay-300 mt-24">
+        <p class="text-bold text-2xl text-moss-700 uppercase pb-0">Essays</span>
+        <p>Opinionated, longform narrative writing with an agenda.</p>
+    </div>
+
+    <!-- two col grid -->
+    <div class="flex flex-row space-x-4">
+
+    <!-- Left column: Most recent 10 posts -->
+    <div class="w-1/2">
+        <ul>
+        {% for post in collections.writing | reverse | slice(0, 10) %}
+            <li class="mb-2">
+            <a href="{{ post.url }}" class="text-blue-600 hover:underline">{{ post.data.title or post.fileSlug }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+
+    <!-- Right column: Posts 11-20 -->
+    <div class="w-1/2">
+        <ul>
+        {% for post in collections.writing | reverse | slice(10, 20) %}
+            <li class="mb-2">
+            <a href="{{ post.url }}" class="text-blue-600 hover:underline">{{ post.data.title or post.fileSlug }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+
+    </div>

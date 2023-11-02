@@ -3,11 +3,11 @@
     console.log('All collection count:', '{{ collections.essays.length }}');
 </script>
 
-    <div class="pb-4 border-y border-clay-300">
-        <p class="text-bold text-2xl text-moss-700">Essays</span>
+    <div class="pb-4 border-b border-clay-300">
+        <p class="text-bold text-2xl text-moss-700 uppercase pb-0">Essays</span>
         <p>Opinionated, longform narrative writing with an agenda.</p>
     </div>
-    <div id="table-notes" class="bg-white divide-y divide-clay-300 border-b border-clay-300">
+    <div id="table-essays" class="bg-white divide-y divide-clay-300 border-b border-clay-300">
         {% for post in collections.essays | reverse %}
         <div class="text-moss-700">
             <div class="w-3/4 px-4 pt-8">
