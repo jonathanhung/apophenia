@@ -448,14 +448,14 @@ body {
 }
 
 h1 {
-  padding-bottom: 2.25rem;
+  padding-bottom: 0.5rem;
   text-align: left;
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 4.5rem;
+  font-size: 3rem;
   line-height: 1;
   font-weight: 700;
   --tw-text-opacity: 1;
-  color: rgb(70 65 53 / var(--tw-text-opacity));
+  color: rgb(62 63 45 / var(--tw-text-opacity));
 }
 
 h2 {
@@ -490,12 +490,12 @@ header {
 
 .summary {
   padding-bottom: 2.25rem;
-  font-family: "Playfair Display", Georgia, serif;
-  font-size: 2.25rem;
-  line-height: 2.5rem;
+  font-family: "Manrope", sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
   font-weight: 500;
   --tw-text-opacity: 1;
-  color: rgb(154 145 122 / var(--tw-text-opacity));
+  color: rgb(62 63 45 / var(--tw-text-opacity));
 }
 
 .header-meta {
@@ -859,14 +859,14 @@ hr {
   background-color: rgb(233 231 226 / var(--tw-bg-opacity));
 }
 
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
 .bg-clay-50 {
   --tw-bg-opacity: 1;
   background-color: rgb(246 246 244 / var(--tw-bg-opacity));
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
 .p-5 {
@@ -987,14 +987,14 @@ hr {
   color: rgb(106 109 76 / var(--tw-text-opacity));
 }
 
-.text-sky-600 {
-  --tw-text-opacity: 1;
-  color: rgb(2 132 199 / var(--tw-text-opacity));
-}
-
 .text-moss-800 {
   --tw-text-opacity: 1;
   color: rgb(62 63 45 / var(--tw-text-opacity));
+}
+
+.text-sky-600 {
+  --tw-text-opacity: 1;
+  color: rgb(2 132 199 / var(--tw-text-opacity));
 }
 
 .filter {

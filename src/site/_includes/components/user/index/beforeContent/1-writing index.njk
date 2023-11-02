@@ -3,8 +3,9 @@
     console.log('All collection count:', '{{ collections.writing.length }}');
 </script>
 
-    <div class="py-4 border-y border-clay-300">
-        <span class="font-mono text-xs text-moss-700">Writing in Development</span>
+    <div class="pb-4 border-y border-clay-300">
+        <p class="text-bold text-2xl text-moss-700">Essays</span>
+        <p>Opinionated, longform narrative writing with an agenda.</p>
     </div>
     <div id="table-notes" class="bg-white divide-y divide-clay-300 border-b border-clay-300">
         {% for post in collections.writing | reverse %}
