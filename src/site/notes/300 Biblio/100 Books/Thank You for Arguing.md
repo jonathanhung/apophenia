@@ -1,0 +1,126 @@
+---
+{"type":"books","date_created":"2015-08-03","aliases":null,"topic":null,"url":null,"layout":null,"banner":null,"dg-publish":true,"tags":null,"permalink":"/300-biblio/100-books/thank-you-for-arguing/","dgPassFrontmatter":true,"created":"2023-10-20T12:44:15.000-05:00","updated":"2023-10-20T12:44:15.000-05:00"}
+---
+
+## Metadata
+---
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51C7BDXeufL._SL200_.jpg)
+- Author:: [[Jay Heinrichs\|Jay Heinrichs]]
+- Title:: Thank You for Arguing
+- topic::  
+
+
+
+## Insights
+---
+## Related Nodes
+---
+
+## Highlights 
+---
+- the most productive arguments use the future tense, the language of choices and decisions. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=187))
+- Aristotle’s three traits of credible leadership: virtue, disinterest, and practical wisdom. ([Location 235](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=235))
+- Cicero’s elegant five-step method for constructing a speech—invention, arrangement, style, memory, and delivery ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=245))
+- You can use seduction—the nonsexual kind—in a presentation. Will your plan increase efficiency? Get your audience to lust after it; paint a vision of actually taking lunch hours and seeing their families more. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=320))
+- This works with most bureaucrats. Pretend you have all the time in the world, and present your choice as the lesser of two evils. They either cut you a break or waste more time with you. Functionaries, like water, follow the path of least resistance. ([Location 332](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=332))
+- Corps. I fell in love with figures, and even launched a website, Figarospeech.com, devoted to them. Figures add polish to a memo or paper, and in day-today conversation they can supply ready wit to the most tedious conversations. TRY THIS IN A PRESENTATION Present a decision with a chiasmus by using a mirror image of your first choice: “Either we control expenses or let expenses control us. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=342))
+- Whoa, there. A presidential chiasmus drove people into the Peace Corps? I use one of the more persuasive ways to cheat in logic—because B follows A, A caused B. I call it the Chanticleer fallacy, after the rooster who thought his crowing made the sun come up. ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=351))
+- Change the audience’s mood, mind, or willingness to act ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=360))
+- We need to distinguish rhetorical argument from the blame-shifting, he-said-she-said squabbling that defines conflict today. In a fight, each disputant tries to win. In an argument, they try to win over an audience—which can comprise the onlookers, television viewers, an electorate, or each other. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=368))
+    - topic:: [[orange\|orange]] 
+- When some of the videotapes appeared on network television, they showed some decidedly uncomfortable moments, even among the happy couples. One successfully married husband admitted he was pathologically lazy, and his wife cheerfully agreed. Nonetheless, the couples who stayed married seemed to use their disputes to solve problems and work out differences. They showed faith in the outcome. The doomed couples, on the other hand, used their sessions to attack each other. Argument was a problem for them, not a means to a solution. The happy ones argued. The unhappy ones fought. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=381))
+    - topic:: [[orange\|orange]] 
+- You succeed in an argument when you persuade your audience. You win a fight when you dominate the enemy. A ([Location 394](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=394))
+    - topic:: [[orange\|orange]] 
+- The basic difference between an argument and a fight: an argument, done skillfully, gets people to want to do what you want. You fight to win; you argue to achieve agreement. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=418))
+    - topic:: [[orange\|orange]] 
+- To win a deliberative argument, don’t try to outscore your opponent. Try instead to get your way.  Argument Tool THE GOAL: Ask yourself what you want at the end of an argument. Change your audience’s mind? Get it to do something or stop doing it? If it works, then you’ve won the argument, regardless of what your opponent thinks. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=444))
+    - topic:: [[orange\|orange]] 
+- He came up with three goals for persuading people, in order of increasing difficulty:               Stimulate your audience’s emotions.               Change its opinion.               Get it to act. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=518))
+    - topic:: [[orange\|orange]] 
+- If you want to make a joint decision, you need to focus on the future. This is the tense that Aristotle saved for his favorite rhetoric. He called it “deliberative,” because it argues about choices and helps us decide how to meet our mutual goals. Deliberative argument’s chief topic is “the advantageous,” according to Aristotle. This is the most pragmatic kind of rhetoric. It skips right and wrong, good and bad, in favor of expedience. ([Location 694](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=694))
+    - topic:: [[orange\|orange]] 
+- Our poor couple remains stranded in the present tense, so let’s rewind their dialogue and make them speak deliberatively—in the future tense, that is.         SHE: Can you turn that down a little?         HE: Sure, I’d be happy to. Wait. Shouldn’t he say, “I’ll be happy to”? “I will,” not “I would”? Well, sure, you’re probably right. He could. But by using the conditional mood—“would” instead of “will”—he leaves himself an opening.         HE: But is the music too loud, or do you want me to play something else?         SHE: Well, now that you mention it, I’d prefer something a little less hair-bandy. Ouch! He plays nice, and she insults the entire classic rock genre. That makes him feel justified in retaliating, but he does it moderately.         HE: Something more elevatorish, you mean? That doesn’t really turn me on. Want to watch a movie? By turning the argument back to choices, the man keeps it from getting too personal—and possibly keeps her off balance, making her a bit more vulnerable to persuasion.         SHE: What do you have in mind?         HE: We haven’t seen Avatar in ages.         SHE: Avatar? I hate that movie. As he well knows. This is a little off topic, but I can’t resist giving you another rhetorical trick: propose an extreme choice first. It will make the one you want sound more reasonable. ([Location 705](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=705))
+    - topic:: [[orange\|orange]] 
+- Deliberation is the rhetoric of choice, literally. It deals with decisions, and decisions depend on particular circumstances, not eternal truths and cold facts. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=810))
+    - topic:: [[orange\|orange]] 
+- TRY THIS IN A MEETING Hold your tongue until well into the discussion. If an argument bogs down in the past or present tense, switch it to the future. “You’re all making good points, but how are we going to …?” Make sure that question defines the issue in a way that’s favorable to your side. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=838))
+    - topic:: [[orange\|orange]] 
+- SPOT THE INARGUABLE: It’s what is permanent, necessary, or undeniably true. If you think your opponent is wrong—if it ain’t necessarily so—then try to assess what the audience believes. You can challenge a belief, but deliberative argument prefers to use beliefs to persuasion’s advantage. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=851))
+    - topic:: [[orange\|orange]] 
+- These two sentences (“Good idea? I believe it was.”) form a figure of speech called a hypophora, which asks a rhetorical question and then immediately answers it. The hypophora allows you to anticipate the audience’s skepticism and nip it in the bud. ([Location 908](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=908))
+    - topic:: [[orange\|orange]] 
+- TRY THIS AT HOME Aristotle said that every point has its flip side. That’s the trick to concession. When a spouse says, “We hardly ever go out anymore,” the wise mate does not spew examples of recent dates; he says, “That’s because I want you all to myself.” This response will at least buy him time to think up a credible change in tense: “But as a matter of fact, I was going to ask if you wanted to go to that new Korean restaurant. ([Location 989](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=989))
+    - topic:: [[orange\|orange]] 
+- You’ll find much the same technique if you take a class in improv. Your teachers will almost certainly school you in the practice of “Yes, and ([Location 995](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=995))
+    - topic:: [[orange\|orange]] 
+- TRY THIS AT WORK Oversympathizing makes someone’s mood seem ridiculous without actually ridiculing it. When a staffer complains about his workspace, say, “Let’s take this straight to the top.” Watch his mood change from whiny to nervous. Of course, you could have an Alice’s Restaurant–style backfire. Arlo Guthrie yelled, “I wanna kill! Kill!” when he registered for the draft, and they pinned a medal on him. You’ll see more of this technique, called the “backfire,” later on. ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1046))
+    - topic:: [[orange\|orange]] 
+- “You persuade a man only insofar as you can talk his language by speech, gesture, tonality, order, image, attitude, idea, identifying your ways with his. ([Location 1092](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1092))
+    - topic:: [[orange\|orange]] 
+- Before you begin to argue, ask yourself, What do they expect?—and mean it. ([Location 1129](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1129))
+    - topic:: [[orange\|orange]] 
+- you can’t assume a character that strays too far from your own. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1176))
+    - topic:: [[orange\|orange]] 
+- A good politician changes his language, behavior, and even his dress to suit the expectations of particular audiences. ([Location 1233](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1233))
+    - topic:: [[orange\|orange]] 
+- But here’s the thing: persuasion isn’t about me. It’s about the beliefs and expectations of my audience. Because we undervalue persuasion, decorum seems to put us at a disadvantage. ([Location 1247](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1247))
+    - topic:: [[orange\|orange]] 
+- not throwing anything at you. Beyond that, they should be attentive—willing to listen closely to what you have to say. And most important of all, they should like and trust you. All three require argument by character. This chapter will delve deeper into the techniques of ethos. According to Aristotle, people have to be able to trust your judgment as well as your essential goodness.  Argument Tool THE PERFECT AUDIENCE: Receptive, attentive, and well disposed toward you. They may think you’re a terrific person, but they won’t follow you if they think you will lead them off a cliff. Likable knuckleheads make bad leaders. Your audience also has to consider you a good person who wants to do the right thing and will not use them for your own nefarious purposes. All of which boils down to Aristotle’s three essential qualities of a persuasive ethos:               Virtue, or cause. The audience believes you share their values.               Practical wisdom, or craft. You appear to know the right thing to do on every occasion.               Disinterest. This means not lack of interest but lack of bias; you seem to be impartial, caring only about the audience’s interests rather than your own. ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1272))
+    - topic:: [[orange\|orange]] 
+- That’s because a person who upholds the values of a group is rhetorically virtuous. This kind of persuasive virtue does not require purity of soul and universal goodness. You don’t even have to do what your heart knows is right; you simply must be seen to have the “right” values—your audience’s values, that is. ([Location 1302](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1302))
+    - topic:: [[orange\|orange]] 
+- This isn’t so easy. Virtue is complicated. You may find yourself trying to persuade two audiences at the same time, each with different values, joining different causes. ([Location 1398](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1398))
+    - topic:: [[orange\|orange]] 
+- Craft does not entail looking up decisions in books, or sticking to universal truths. It’s an instinct for making the right decision on every occasion. Pure eggheads lack it. When we think of the Apollo space program, we rarely picture the rocket scientists. We remember a failed mission, Apollo 13, when three guys jury-rigged their spaceship and got back to earth alive. They were among the most highly trained people ever to leave the ground, but they had little training in the repair of carbon dioxide scrubbers. Still, they were able to combine instructions from the ground with their skill as first-class tinkerers. That’s craft: flexibly wise leadership. All great leaders have it. Strict rule followers lack it. ([Location 1550](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1550))
+    - topic:: [[orange\|orange]] 
+- Every proposal should have three parts (not necessarily in this order): payoffs, doability, and superiority. Describe the benefits of your choice, make it seem easy to do, and show how it beats the other options. ([Location 1596](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1596))
+    - topic:: [[orange\|orange]] 
+- Tools for enhancing your practical wisdom:        •  Show off your experience.        •  Bend the rules.        •  Appear to take the middle course. ([Location 1631](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1631))
+    - topic:: [[orange\|orange]] 
+- Cicero mentioned an excellent tactic to hype your objectivity: Seem to deal reluctantly with something you are really eager to prove. Make it sound as if you reached your opinion only after confronting overwhelming evidence. ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1655))
+    - topic:: [[orange\|orange]] 
+- DUBITATIO: Don’t look tricky. Seem to be in doubt about what to say. ([Location 1722](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1722))
+    - topic:: [[orange\|orange]] 
+- His dubious opening set his highbrow audience up, not just by lowering expectations but also by conveying absolute sincerity. The speech was a smash. Without it, Lincoln likely “would never have been nominated, much less elected, ([Location 1724](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1724))
+    - topic:: [[orange\|orange]] 
+- His ethos made the audience trust his sincerity while doubting his intellect—until he showed them his intellect. ([Location 1733](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1733))
+    - topic:: [[orange\|orange]] 
+- You can use the same technique without being a Lincoln. When you give a talk to a group, begin hesitantly, and gradually get smoother as you go. Speakers often think they have to grab the audience’s attention right off the bat. Not necessarily; most people start with an attention span of at least five minutes. Just make sure your pauses don’t stretch too far. ([Location 1734](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1734))
+    - topic:: [[orange\|orange]] 
+- You can use a subtler form of dubitatio in a one-on-one argument. It works like this: When your partner finishes talking, look down. Speak softly and slowly until you’re ready to make your main point. Then stare intensely into the eyes of the other person. Get the technique right, and it can convey passionate sincerity. ([Location 1740](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1740))
+    - topic:: [[orange\|orange]] 
+- In argument, you don’t rest on your personality and reputation, you perform them. Ethos is not karma; you can start afresh with your cause, craft, and caring in every argument. ([Location 1758](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1758))
+    - topic:: [[orange\|orange]] 
+- Pathos means more than just “feelings” in the emotional sense. It also has to do with physical sensations—what a person feels or, more precisely, suffers. (The Greeks were into suffering.) Hence the medical term “pathology,” the study of diseases. ([Location 1791](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1791))
+    - topic:: [[orange\|orange]] 
+- Emotion comes from experience and expectation—what your audience believes has happened, or will take place in the future. The more vividly you give the audience the sensations of an experience, the greater the emotion you can arouse. ([Location 1812](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1812))
+    - topic:: [[orange\|orange]] 
+- When you want to change someone’s mood, tell a story. Don’t engage in name-calling. Don’t rant. Aristotle said that one of the most effective mood changers is a detailed narrative. ([Location 1826](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1826))
+    - topic:: [[orange\|orange]] 
+- When you argue emotionally, speak simply. People in the middle of a strong emotion rarely use elaborate speech. The most emotional words of all have just four letters. Less is more, and in pathetic terms, less evokes more. ([Location 1859](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1859))
+    - topic:: [[orange\|orange]] 
+- Holding your emotions in check also means taking your time to use them. Pathos tends to work poorly in the beginning of an argument, when you need to make the audience understand what you want and trust your character; that’s the bailiwick of logos and ethos. Let emotion build gradually. Aristotle said that you can turn it up loudest in a speech before a large crowd; logos and ethos are your main strengths in a one-on-one argument, he said. But even when you harangue a political convention, your emotions will work best in gradually increasing doses. ([Location 1878](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1878))
+    - topic:: [[orange\|orange]] 
+- Anger gets the fastest action, which is a reason why most political advertising tries to make you mad. The problem is, while angry people are quick on the trigger, they tend not to think far ahead; hence the crime of passion. So anger isn’t the best emotion for deliberative argument, where we make decisions about the future. The Greeks reserved it for courtroom rhetoric, when they wanted someone to hang. ([Location 1960](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1960))
+    - topic:: [[orange\|orange]] 
+- Patriotism does a much better job of looking into the future. This rhetorical group loyalty doesn’t have to be all about country. You can be patriotic for a high school, a British soccer team, or—rarely these days—a company. Do not confuse it with idealism, belief in an idea. That’s the realm of logos, not pathos. Soldiers have died for democracy and freedom, indeed, but their patriotism burns for a country, not an idea—the Stars and Bars, not the Constitution. An effective argument against flag burning is bound to be emotional, because it’s all about zeal for country. An argument to allow flag burning must use logos more than pathos, because it emphasizes ideals more than patriotism. ([Location 1967](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=1967))
+    - topic:: [[orange\|orange]] 
+- EMULATION: Provide only the kind of role model your audience already admires. ([Location 2001](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=2001))
+    - topic:: [[orange\|orange]] 
+- Aristotle maintained that the person most affected by a decision makes the best judge of it. The diner is more qualified to judge a dish than the chef, he said, meaning that the girl outweighs you rhetorically. While the decision is up to the audience, the burden of proof is on you. To prove your point, start with something your audience believes or wants. ([Location 2310](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=2310))
+    - topic:: [[orange\|orange]] 
+- An audience’s commonplaces are easy to find, because you hear them frequently. When someone rejects your argument, she usually does it with a commonplace. ([Location 2425](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=2425))
+    - topic:: [[orange\|orange]] 
+- the technique of top lawyers and political strategists: the ability to define the terms and the issue in a way that stacks an argument in your favor. ([Location 2508](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=2508))
+    - topic:: [[orange\|orange]] 
+- One of the best ways to define the terms is to redefine them. Don’t accept your opponent’s definition. Come up with your own instead. That way you sound as though you agree with your opponent’s argument even while you cut the legs out from under it. ([Location 2546](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=2546))
+    - topic:: [[orange\|orange]] 
+- A broad context trumps a narrow one in a political situation; this includes office politics. Suppose the company wants to merge your department with one headed by an idiot. How should you define the issue? In terms of fairness? The manager’s competence? Or your department’s ability to produce more as an independent entity? Productivity is the broadest of the three issues, because it appeals to the widest array of company managers. ([Location 2717](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=2717))
+    - topic:: [[orange\|orange]] 
+- For many of us, the most frustrating thing about an argument is the feeling that we don’t know enough about an issue. As important as facts are for an argument, they’re not always at your command. Here’s where logos comes to the rescue. It allows you to skip the facts when you have to, focusing instead on rational strategy, definition, and other subtle tactics. ([Location 2796](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=2796))
+    - topic:: [[orange\|orange]] 
+- the enthymeme. It takes a commonplace—a belief, value, or attitude—and uses it as a first step in convincing the audience. Let’s apply Aristotle’s enthymeme to the Priapic.               Babes go for Priapic owners.               You should buy a Priapic. ([Location 2869](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=2869))
+    - topic:: [[orange\|orange]] 
+- Work up a logical outline. First, construct an enthymeme that uses something your audience believes in. It sums up your entire talk. The rest of the outline rests on inductive logic. List the facts, compare your argument with an opposing one, and include at least one anecdote that illustrates your point on the micro level. Go back and read Reagan’s speeches, and you’ll find that most of them use exactly this logical method. Or skip ahead to Chapter 25, where Cicero shows you how to outline a speech. ([Location 3041](https://readwise.io/to_kindle?action=open&asin=B00BO4GR1W&location=3041))
+    - topic:: [[orange\|orange]] 
