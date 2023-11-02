@@ -1,5 +1,5 @@
 ---
-{"type":"podcasts","date_created":null,"url":"https://overcast.fm/+YVzwT-vng","dg-publish":true,"permalink":"/300-biblio/300-podcasts/alnoor-ladha-and-lynn-murphy-on-post-capitalist-philanthropy/","dgPassFrontmatter":true,"created":"2023-08-11T14:21:53.000-05:00","updated":"2023-10-27T19:53:18.930-05:00"}
+{"type":"podcasts","date_created":null,"url":"https://overcast.fm/+YVzwT-vng","dg-publish":true,"topic":["[[postcapitalism\|postcapitalism]]","[[philanthro-capitalism\|philanthro-capitalism]]","[[ontology]]","[[800 Seeds/820 Unsorted Topics/821 Unprocessed Topics/onto-shifts\|onto-shifts]]"],"permalink":"/300-biblio/300-podcasts/alnoor-ladha-and-lynn-murphy-on-post-capitalist-philanthropy/","dgPassFrontmatter":true,"created":"2023-08-11T14:21:53.000-05:00","updated":"2023-10-27T20:15:03.956-05:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 - Author::
 - Title::
 - Document Note::
-- topic:: [[frontiers of commoning\|frontiers of commoning]] [[new economic systems\|new economic systems]] [[philanthro-capitalism\|philanthro-capitalism]] [[postcapitalism\|postcapitalism]]
+- topic:: [[frontiers of commoning\|frontiers of commoning]] [[new economic systems\|new economic systems]] [[philanthro-capitalism]] [[postcapitalism]]
 
 ---
 
@@ -33,7 +33,7 @@ Editorial book - Vandana Shiva on phila
 - rationalism: entitlement, that we're godlike or deserve to dominate
 - anthropocentric progress narrative
 
-[[800 Seeds/820 Unsorted Topics/821 Unprocessed Topics/onto-shifts\|onto-shifts]]
+[[onto-shifts]]
 "if you do not have a critique of capitalist modernity then you are contextually irrelevant, but if all you have is critique then you are culturally and spiritually impoverished"
 
 ---
