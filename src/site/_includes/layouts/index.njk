@@ -22,11 +22,11 @@
       {%include "components/searchContainer.njk"%}
     {% endif %}
     
-    <header>
+    <header class="bg-clay-100">
       {% if settings.dgShowInlineTitle === true %}
         <h1>{{ noteTitle  }}</h1>
       {% endif %}
-      <h1 class="text-moss-700">Apophenia</h1>
+      <h1 class="text-moss-800">Apophenia</h1>
       <div class="summary">
           {% if summary %}
             {{summary}}

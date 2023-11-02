@@ -43,6 +43,7 @@ module.exports = {
       'moss-500': '#989B74',
       'moss-600': '#828561',
       'moss-700': '#6A6D4C',
+      'moss-800': '#3E3F2D',
       'white': '#FFFFFF',
     },
     fontFamily: {
