@@ -1,5 +1,5 @@
 ---
-{"type":"post","date_created":"2023-08-11","tags":null,"summary":"First thoughts and UI criticisms of the socialist planning game.","layout":null,"banner":null,"status":"draft","date_modified":"2023-08-11","dg-publish":true,"permalink":"/000-essays/half-earth-game-review/","dgPassFrontmatter":true,"created":"2023-10-20T12:45:09.000-05:00","updated":"2023-10-27T15:38:25.140-05:00"}
+{"type":"essay","date_created":"2023-08-11","tags":null,"summary":"First thoughts and UI criticisms of the socialist planning game.","layout":null,"banner":null,"status":"draft","date_modified":"2023-08-11","dg-publish":true,"permalink":"/000-essays/half-earth-game-review/","dgPassFrontmatter":true,"created":"2023-10-20T12:45:09.000-05:00","updated":"2023-11-02T17:15:02.610-05:00"}
 ---
 
 
