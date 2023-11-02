@@ -864,6 +864,11 @@ hr {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-clay-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(246 246 244 / var(--tw-bg-opacity));
+}
+
 .p-5 {
   padding: 1.25rem;
 }
